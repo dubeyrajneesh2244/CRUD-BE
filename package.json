@@ -18,5 +18,8 @@
     "mongoose": "^7.4.5",
     "mongoose-auto-increment": "^5.0.1",
     "nodemon": "^3.0.1"
-  }
+  },
+  "engines": {
+  "node": ">=14.20.1"
+}
 }
